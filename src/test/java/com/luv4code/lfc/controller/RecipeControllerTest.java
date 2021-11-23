@@ -43,7 +43,4 @@ public class RecipeControllerTest {
                 .andExpect(model().attributeExists("recipe"));
     }
 
-
-
-
 }
